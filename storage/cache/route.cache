@@ -1,0 +1,16 @@
+<?php return array (
+  0 => 
+  array (
+    'GET' => 
+    array (
+      '/' => 
+      array (
+        0 => 'App\\Controllers\\Frontend\\Guest\\LoginController',
+        1 => 'getView',
+      ),
+    ),
+  ),
+  1 => 
+  array (
+  ),
+);
